@@ -4,13 +4,13 @@
   box-sizing: border-box;
 }
 
-$mainBlack:#2222;
-$mainGreen:#82b340;
-$mainWhite:#fff;
-$mainGrey:#ececec;
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #ececec;
 
 body {
   font-family: 'Open Sans', sans-serif;
   background: $mainWhite;
-  color: black;
+  color: $mainBlack;
 }
